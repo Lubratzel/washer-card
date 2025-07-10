@@ -1,7 +1,7 @@
 {
   "domain": "washer-card",
   "name": "washer-card",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "documentation": "https://github.com/Lubratzel/washer-card",
   "dependencies": [],
   "codeowners": ["@Lubratzel"],
