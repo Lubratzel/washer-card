@@ -1,0 +1,10 @@
+{
+  "domain": "washer-card",
+  "name": "washer-card",
+  "version": "0.0.1",
+  "documentation": "https://github.com/Lubratzel/washer-card",
+  "dependencies": [],
+  "codeowners": ["@Lubratzel"],
+  "requirements": [],
+  "config_flow": false
+}
